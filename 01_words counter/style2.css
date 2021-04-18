@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 9vw;
+    font-size: 3vw;
+}
+
+#container{
+    background-color:lavender;
+    height: 25vw;
+    width: 60%;
+    margin-top:2vw;
+    margin-left : 20vw;
+    padding: 1vw;
+    border : 1vw solid ;
+}
+
+textarea{
+    width:100%;
+    height:15vw;
+    resize :none;
+    font-size:2vw;
+}
+
+button{
+    width: 10vw;
+    background-color: red;
+    color:white;
+    border-radius: 50px;
+    margin-left: 25vw;
+    font-size:2vw;
+    cursor: pointer; 
+    border:0px;
+}
+
+p{
+    text-align: center;
+    font-size:2vw;
+    font-weight:bold;
+    padding:0.5vw;
+}
